@@ -8,7 +8,7 @@ export default function Home() {
       <Container size="1">
         <Flex direction="column" align="center" gap="5">
           <Image
-            src="/wordmark.png"
+            src="/wordmark.svg"
             alt="LiveKit"
             width="240"
             height="120"
