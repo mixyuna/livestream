@@ -25,14 +25,7 @@ export default function Home() {
           </Text>
           <HomeActions />
           <Separator orientation="horizontal" size="4" className="my-2" />
-          <Text as="p" size="2">
-            Feel free to clone this full-stack NextJS app{" "}
-            <Link
-              href="https://github.com/livekit-examples/nextjs-livestream"
-              target="_blank"
-            >
-              here
-            </Link>
+
             .
             {/* And also be sure to check out clone our{" "}
             <Link
