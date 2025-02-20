@@ -15,7 +15,7 @@ export default function Home() {
             className="invert dark:invert-0 mt-8 mb-2"
           />
           <Text as="p">
-            Welcome to the LiveKit livestream demo app. You can join or start
+            Welcome to the Tigerasia88 livestream app. You can join or start
             your own stream. Hosted on{" "}
             <Link href="https://livekit.io/cloud" target="_blank">
               LiveKit Cloud
